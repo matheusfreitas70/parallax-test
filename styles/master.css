@@ -53,5 +53,5 @@ html, body {
 }
 
 .parallax_image::after {
-     background-image: url(images/herobg.jpg);
+     background-image: url(../images/herobg.jpg);
 }
